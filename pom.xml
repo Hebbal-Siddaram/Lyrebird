@@ -159,4 +159,8 @@
         </profile>
     </profiles>
 
+    <prerequisites>
+        <maven>3.5</maven>
+    </prerequisites>
+
 </project>

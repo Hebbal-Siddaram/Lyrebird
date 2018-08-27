@@ -184,7 +184,7 @@
         <dependency>
             <groupId>io.reactivex.rxjava2</groupId>
             <artifactId>rxjava</artifactId>
-            <version>2.1.17</version>
+            <version>2.2.1</version>
         </dependency>
         <dependency>
             <groupId>com.dorkbox</groupId>
@@ -207,25 +207,25 @@
         <dependency>
             <groupId>org.jboss.spec.javax.transaction</groupId>
             <artifactId>jboss-transaction-api_1.2_spec</artifactId>
-            <version>1.1.1.Final</version>
+            <version>2.0.0.Alpha1</version>
         </dependency>
 
         <!-- Misc -->
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
-            <version>2.3.0</version>
+            <version>2.4.0-b180725.0427</version>
         </dependency>
         <dependency>
             <groupId>com.github.oshi</groupId>
             <artifactId>oshi-core</artifactId>
-            <version>3.6.2</version>
+            <version>3.8.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.ocpsoft.prettytime</groupId>
             <artifactId>prettytime</artifactId>
-            <version>4.0.1.Final</version>
+            <version>4.0.2.Final</version>
         </dependency>
     </dependencies>
 
